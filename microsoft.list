@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onedrive.com
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
