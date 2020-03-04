@@ -1,12 +1,18 @@
 DOMAIN-SUFFIX,science.com
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,cco.amegroups.com
+DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-KEYWORD,sciencedirect
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,link.springer.com
+DOMAIN-KEYWORD,elsevier
 DOMAIN-SUFFIX,springer.com
+DOMAIN-KEYWORD,deepdyve
+DOMAIN-KEYWORD,els-cdn
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-KEYWORD,readcube
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,ca.org
@@ -15,6 +21,7 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sci-hub.cc
 DOMAIN-SUFFIX,sci-hub.la
 DOMAIN-SUFFIX,sci-hub.hk
