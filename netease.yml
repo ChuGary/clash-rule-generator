@@ -10,7 +10,7 @@ mode: rule
 log-level: info
 
 proxies:
-  - name: "网易云解锁:NAS"
+  - name: "🎵 NeteaseUnblock"
     type: http
     server: qwq.ski
     port: 666
