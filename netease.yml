@@ -1,0 +1,20 @@
+# port of HTTP
+port: 7890
+# port of SOCKS5
+socks-port: 7891
+allow-lan: false
+# rule / global / direct (default is rule)
+mode: rule
+# set log level to stdout (default is info)
+# info / warning / error / debug / silent
+log-level: info
+
+proxies:
+  - name: "网易云解锁:NAS"
+    type: http
+    server: qwq.ski
+    port: 666
+    # username: username
+    # password: password
+    # tls: true # https
+    # skip-cert-verify: true
