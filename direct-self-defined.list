@@ -56,3 +56,4 @@ IP-CIDR,118.26.120.0/24,no-resolve
 IP-CIDR,223.119.62.225/28,no-resolve
 DOMAIN-SUFFIX,cloud.tencent.com
 URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com
+DOMAIN-SUFFIX,flyertea.com
