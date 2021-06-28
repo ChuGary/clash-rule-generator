@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,csair.com
 DOMAIN-SUFFIX,liangyihui.net
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
+DOMAIN-SUFFIX,weibo.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
