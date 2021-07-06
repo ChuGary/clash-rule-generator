@@ -13,16 +13,26 @@ DOMAIN-KEYWORD,westlawchina
 ## 查找 DOI
 DOMAIN-SUFFIX,doi.org
 
+## Med
+DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+
+DOMAIN-KEYWORD,jamanetwork.com
+DOMAIN-KEYWORD,redjournal.org
+DOMAIN-KEYWORD,thegreenjournal.com
+DOMAIN-KEYWORD,ejcancer.com
+DOMAIN-SUFFIX,cco.amegroups.com
+DOMAIN-KEYWORD,bmj.com
+DOMAIN-SUFFIX,cancerres.aacrjournals.org
+DOMAIN-SUFFIX,oncologypro.esmo.org
+
 ## SCI 综合
 DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,science.com
 DOMAIN-SUFFIX,osapublishing.org
 
 ## Willey 旗下
@@ -32,6 +42,7 @@ DOMAIN-KEYWORD,readcube
 ## Elsevier 旗下
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-KEYWORD,sciencedirect
+DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
@@ -41,6 +52,9 @@ DOMAIN-SUFFIX,oup.com
 
 ## Springer 旗下
 DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,link.springer.com
+
 
 ## JSTOR 旗下
 DOMAIN-SUFFIX,jstor.org
@@ -52,3 +66,7 @@ DOMAIN-SUFFIX,iop.org
 DOMAIN-SUFFIX,aip.scitation.org
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,dl.acm.org
+DOMAIN-SUFFIX,nhcps.com
+
+# WOS
+DOMAIN-SUFFIX,webofknowledge.com
