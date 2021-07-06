@@ -1,47 +1,23 @@
-# 
 
-DOMAIN-SUFFIX,science.com
-DOMAIN-SUFFIX,doi.org
-DOMAIN-SUFFIX,cco.amegroups.com
-DOMAIN-SUFFIX,cabdirect.org
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-KEYWORD,sciencedirect
-DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,link.springer.com
-DOMAIN-KEYWORD,elsevier
-DOMAIN-SUFFIX,springer.com
-DOMAIN-KEYWORD,deepdyve
-DOMAIN-KEYWORD,els-cdn
-DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-KEYWORD,readcube
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,ca.org
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,osapublishing.org
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,scopus.com
+
+## sci-hub
+DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,sci-hub.cc
 DOMAIN-SUFFIX,sci-hub.la
 DOMAIN-SUFFIX,sci-hub.hk
-DOMAIN-KEYWORD,sci-hub.
-DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
-DOMAIN-SUFFIX,bestpractice.bmj.com
+
+
+# Elsevier 旗下
+DOMAIN,ees.elsevier.com
+
+# Citavi
 DOMAIN-SUFFIX,softhead-citavi.com
 DOMAIN-KEYWORD,softhead-citavi
-DOMAIN-KEYWORD,jamanetwork.com
-DOMAIN-KEYWORD,redjournal.org
-DOMAIN-KEYWORD,thegreenjournal.com
-DOMAIN-KEYWORD,ejcancer.com
+
+# MED
 DOMAIN-KEYWORD,nccn.org
-DOMAIN-KEYWORD,bmj.com
+DOMAIN-SUFFIX,bestpractice.bmj.com
 DOMAIN-SUFFIX,seer.cancer.gov
-DOMAIN-SUFFIX,nhcps.com
-DOMAIN-SUFFIX,cancerres.aacrjournals.org
-DOMAIN-SUFFIX,oncologypro.esmo.org
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,gdc.cancer.gov
 DOMAIN-SUFFIX,bbc.co.uk
