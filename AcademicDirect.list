@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,aip.scitation.org
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,dl.acm.org
 DOMAIN-SUFFIX,nhcps.com
+DOMAIN-SUFFIX,orcid.org
 
 # WOS
 DOMAIN-SUFFIX,webofknowledge.com
