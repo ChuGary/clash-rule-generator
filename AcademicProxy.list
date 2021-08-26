@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,sci-hub.hk
 
 
 # Elsevier 旗下
-DOMAIN,ees.elsevier.com
+# DOMAIN,ees.elsevier.com
 
 # Citavi
 DOMAIN-SUFFIX,softhead-citavi.com
