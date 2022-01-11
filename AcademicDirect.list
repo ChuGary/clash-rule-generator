@@ -84,6 +84,9 @@ DOMAIN-SUFFIX,mc.manuscriptcentral.com
 # F1000
 DOMAIN-SUFFIX,facultyopinions.com
 
+# scholarscope
+DOMAIN-SUFFIX,scholarscope.online
+
 # Others
 DOMAIN-SUFFIX,liangyihui.net
 DOMAIN-SUFFIX,home-for-researchers.com
